@@ -24,3 +24,7 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 -> Em relações as formas de pagamentos, as entidade Boelto e Cartão foram criadas contendo suas respectivas informações.
 
 -> Criada uma entidade para a Entrega, contendo o seu Status e Rastreio.
+
+## Certificado
+
+[ZCBLZW9Y.pdf](https://github.com/user-attachments/files/17787806/ZCBLZW9Y.pdf)
