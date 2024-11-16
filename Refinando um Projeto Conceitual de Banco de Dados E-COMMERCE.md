@@ -27,4 +27,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Certificado
 
-[ZCBLZW9Y.pdf](https://github.com/user-attachments/files/17787806/ZCBLZW9Y.pdf)
+![ZCBLZW9Y (1)-1](https://github.com/user-attachments/assets/10789bc9-36c0-4516-8108-ab2e0baddd23)
