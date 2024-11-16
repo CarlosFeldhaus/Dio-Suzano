@@ -17,3 +17,4 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Respostas do Desafio
 
+![E-commerce](https://github.com/user-attachments/assets/b0c18cd1-202d-40de-83a1-ed6adbd62fa8)
